@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GroceryShop_ASP_6\\WebShop\\WebShop.csproj": {}
+    "D:\\GloceryShopASP\\GroceryShop_ASP_6\\WebShop\\WebShop.csproj": {}
   },
   "projects": {
-    "D:\\GroceryShop_ASP_6\\WebShop\\WebShop.csproj": {
+    "D:\\GloceryShopASP\\GroceryShop_ASP_6\\WebShop\\WebShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GroceryShop_ASP_6\\WebShop\\WebShop.csproj",
+        "projectUniqueName": "D:\\GloceryShopASP\\GroceryShop_ASP_6\\WebShop\\WebShop.csproj",
         "projectName": "WebShop",
-        "projectPath": "D:\\GroceryShop_ASP_6\\WebShop\\WebShop.csproj",
+        "projectPath": "D:\\GloceryShopASP\\GroceryShop_ASP_6\\WebShop\\WebShop.csproj",
         "packagesPath": "C:\\Users\\Dat Bruce\\.nuget\\packages\\",
-        "outputPath": "D:\\GroceryShop_ASP_6\\WebShop\\obj\\",
+        "outputPath": "D:\\GloceryShopASP\\GroceryShop_ASP_6\\WebShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dat Bruce\\AppData\\Roaming\\NuGet\\NuGet.Config",

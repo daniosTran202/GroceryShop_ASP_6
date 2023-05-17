@@ -30,7 +30,7 @@ namespace WebShop.Areas.Admin.Controllers
         public IActionResult Index(int page = 1, int CatID = 0)
         {
             var pageNumber = page;
-            var pageSize = 20;
+            var pageSize = 10;
 
             List<Product> lsProducts = new List<Product>();
             if (CatID != 0)

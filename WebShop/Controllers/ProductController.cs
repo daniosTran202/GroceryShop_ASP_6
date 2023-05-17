@@ -26,7 +26,7 @@ namespace WebShop.Controllers
                 var pageSize = 10;
                 var lsTinDangs = _context.Products
                     .AsNoTracking()
-                    .OrderBy(x => x.DateCreated);
+                    .OrderByDescending(x => x.DateCreated);
                 PagedList<Product> models = new PagedList<Product>(lsTinDangs, pageNumber, pageSize);
 
                 ViewBag.CurrentPage = pageNumber;
